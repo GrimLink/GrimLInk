@@ -1,6 +1,6 @@
 # About me
 
-<img align="right" src="https://github.com/grimlink/grimlink/raw/main/assets/sup-dood.png">
+<img src="https://github.com/grimlink/grimlink/raw/main/assets/sup-dood.png" alt="" align="right">
 
 Hi, I am Sean van Zuidam also known on the web as [@GrimLink](https://twitter.com/GrimLink).
 
