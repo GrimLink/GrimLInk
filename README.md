@@ -6,7 +6,7 @@ Hi, I am Sean van Zuidam also known on the web as [@GrimLink](https://twitter.co
 
 I am a Frontend Developer from Zwolle, The Netherlands.
 
-A I Gamer, Anime watcher and fan of METAL, Rock and Chiptune music 🤘
+Gamer, Anime watcher and fan of METAL, Rock and Chiptune music 🤘
 
 I am also the creator of [@fylgja](https://github.com/fylgja).
 The modular highly customizable CSS framework. Powered by CSS Components for building your Web UI.
