@@ -15,56 +15,56 @@ The modular highly customizable CSS framework. Powered by CSS Components for bui
 
 <a rel="me" href="https://twitter.com/grimlink">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/socials/dark/twitter.svg">
-    <img src="./assets/socials/light/twitter.svg" width="24" height="24" alt="Follow me on Twitter">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grimlink/grimlink/raw/main/socials/dark/twitter.svg">
+    <img src="https://github.com/grimlink/grimlink/raw/main/socials/light/twitter.svg" width="24" height="24" alt="Follow me on Twitter">
   </picture>
 </a>
 
 <a rel="me" href="https://www.linkedin.com/in/seanvanzuidam">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/socials/dark/linkedin.svg">
-    <img src="./assets/socials/light/linkedin.svg" width="24" height="24" alt="Follow me on LinkedIn">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grimlink/grimlink/raw/main/socials/dark/linkedin.svg">
+    <img src="https://github.com/grimlink/grimlink/raw/main/socials/light/linkedin.svg" width="24" height="24" alt="Follow me on LinkedIn">
   </picture>
 </a>
 
 <a rel="me" href="https://mastodon.social/@GrimLink">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/socials/dark/mastodon.svg">
-    <img src="./assets/socials/light/mastodon.svg" width="24" height="24" alt="Follow me on Mastodon">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grimlink/grimlink/raw/main/socials/dark/mastodon.svg">
+    <img src="https://github.com/grimlink/grimlink/raw/main/socials/light/mastodon.svg" width="24" height="24" alt="Follow me on Mastodon">
   </picture>
 </a>
 
 <a rel="me" href="https://instagram.com/seangrimlink">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/socials/dark/instagram.svg">
-    <img src="./assets/socials/light/instagram.svg" width="24" height="24" alt="Follow me on Instagram">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grimlink/grimlink/raw/main/socials/dark/instagram.svg">
+    <img src="https://github.com/grimlink/grimlink/raw/main/socials/light/instagram.svg" width="24" height="24" alt="Follow me on Instagram">
   </picture>
 </a>
 
 <a rel="me" href="https://dev.to/grimlink">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/socials/dark/devto.svg">
-    <img src="./assets/socials/light/devto.svg" width="24" height="24" alt="Follow me on Dev.to">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grimlink/grimlink/raw/main/socials/dark/devto.svg">
+    <img src="https://github.com/grimlink/grimlink/raw/main/socials/light/devto.svg" width="24" height="24" alt="Follow me on Dev.to">
   </picture>
 </a>
 
 <a rel="me" href="https://www.youtube.com/@SeanGrimLink">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/socials/dark/youtube.svg">
-    <img src="./assets/socials/light/youtube.svg" width="24" height="24" alt="Follow me on Youtube">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grimlink/grimlink/raw/main/socials/dark/youtube.svg">
+    <img src="https://github.com/grimlink/grimlink/raw/main/socials/light/youtube.svg" width="24" height="24" alt="Follow me on Youtube">
   </picture>
 </a>
 
 <a rel="me" href="https://www.reddit.com/user/GrimLink">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/socials/dark/reddit.svg">
-    <img src="./assets/socials/light/reddit.svg" width="24" height="24" alt="Follow me on Reddit">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grimlink/grimlink/raw/main/socials/dark/reddit.svg">
+    <img src="https://github.com/grimlink/grimlink/raw/main/socials/light/reddit.svg" width="24" height="24" alt="Follow me on Reddit">
   </picture>
 </a>
 
 <a rel="me" href="https://about.me/grimlink">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/socials/dark/aboutme.svg">
-    <img src="./assets/socials/light/aboutme.svg" width="24" height="24" alt="Check me out on my about.me">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grimlink/grimlink/raw/main/socials/dark/aboutme.svg">
+    <img src="https://github.com/grimlink/grimlink/raw/main/socials/light/aboutme.svg" width="24" height="24" alt="Check me out on my about.me">
   </picture>
 </a>
