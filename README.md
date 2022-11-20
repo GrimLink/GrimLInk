@@ -64,7 +64,7 @@ The modular highly customizable CSS framework. Powered by CSS Components for bui
 
 <a rel="me" href="https://about.me/grimlink">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grimlink/grimlink/raw/main/socials/dark/aboutme.svg">
-    <img src="https://github.com/grimlink/grimlink/raw/main/socials/light/aboutme.svg" width="24" height="24" alt="Check me out on my about.me">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grimlink/grimlink/raw/main/assets/socials/dark/aboutme.svg">
+    <img src="https://github.com/grimlink/grimlink/raw/main/socials/assets/light/aboutme.svg" width="24" height="24" alt="Check me out on my about.me">
   </picture>
 </a>
