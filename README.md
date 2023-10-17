@@ -62,6 +62,13 @@ The modular highly customizable CSS framework. Powered by CSS Components for bui
   </picture>
 </a>
 
+<a rel="me nofollow" target="_blank" href="https://gravatar.com/grimlink">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grimlink/grimlink/main/assets/socials/dark/gravatar.svg">
+    <img src="https://raw.githubusercontent.com/grimlink/grimlink/main/assets/socials/light/gravatar.svg" width="24" height="24" hspace="4" alt="Check me out on my Gravatar">
+  </picture>
+</a>
+
 <a rel="me nofollow" target="_blank" href="https://about.me/grimlink">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grimlink/grimlink/main/assets/socials/dark/aboutme.svg">
