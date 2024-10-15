@@ -8,8 +8,7 @@ I am a Frontend Developer from Zwolle, The Netherlands.
 
 Gamer, Anime watcher and fan of METAL, Rock and Chiptune music 🤘
 
-I am also the creator of [@fylgja](https://github.com/fylgja).
-The modular highly customizable CSS framework. Powered by CSS Components for building your Web UI.
+I am also the creator of [Fylgja CSS](https://github.com/fylgja).
 
 **Find me also on:**
 
